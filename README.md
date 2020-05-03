@@ -1,1 +1,1 @@
-# stm32f103c8-lcd-st7735s
+# stm32f103c8-st7735s-lcd
